@@ -1,0 +1,18 @@
+* {font-family: 'Roboto Slab', serif;;
+font-weight: 30;
+ }
+body{background-image: url(network.jpg);
+background-attachment: fixed; background-repeat: no-repeat;
+background-size: cover; margin :auto; }
+p {font-weight: 300;
+font-size: 25px; text-align: center; color: rgb(156, 148, 148)}
+
+section { margin-right: auto; margin-left: auto;
+     margin-top: 150px; margin-bottom: auto;}
+
+h1 { font-family: 'Press Start 2P', cursive; cursor: pointer;}
+a:hover  { font-weight: bold; color: blue;}
+a {font-family:'Press Start 2P', cursive; color: rgb(134, 121, 121)
+    ; padding-bottom: 50px;}
+    footer { margin-top: 350px; text-align: center;}
+header {text-align: center; padding-top: 50px;}
